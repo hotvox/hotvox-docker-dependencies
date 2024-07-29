@@ -1,0 +1,15 @@
+[submodule "pi-gen"]
+	path = pi-gen
+	url = git@github.com:RPi-Distro/pi-gen.git
+[submodule "glances"]
+	path = glances
+	url = https://github.com/nicolargo/glances.git
+[submodule "homepage"]
+	path = homepage
+	url = https://github.com/gethomepage/homepage.git
+[submodule "docker-nginx"]
+	path = docker-nginx
+	url = git@github.com:nginxinc/docker-nginx.git
+[submodule "anything-llm"]
+	path = anything-llm
+	url = https://github.com/Mintplex-Labs/anything-llm.git
